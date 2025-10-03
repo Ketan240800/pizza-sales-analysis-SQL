@@ -12,7 +12,13 @@ This project analyzes loan application data to uncover key business insights suc
 - Analyze borrower demographics (state, term, employment length, home ownership, purpose)
 - Provide a data-driven dashboard for business decision-making
 
+## Database Details
+The analysis is based on a database that consists of four interconnected tables:
 
+- [orders]("C:\Users\91907\OneDrive\Desktop\SQL Pizza Sales Project\pizza_sales\orders.csv"): Contains details about the order ID, date, and time.
+- orders_details: Contains details for each item in an order (order details ID, order ID, pizza ID, and quantity).
+- pizzas: Contains details about each pizza variant (pizza ID, pizza type ID, size, and price).
+- pizza_types: Contains details about the pizza categories and names (pizza type ID, name, category, and ingredients).
 
 
 
