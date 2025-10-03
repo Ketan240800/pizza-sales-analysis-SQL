@@ -12,7 +12,7 @@ This project analyzes loan application data to uncover key business insights suc
 - Analyze borrower demographics (state, term, employment length, home ownership, purpose)
 - Provide a data-driven dashboard for business decision-making
 
-## Database Details
+## 📂 Dataset Details
 The analysis is based on a database that consists of four interconnected tables:
 
 - orders: Contains details about the order ID, date, and time.
@@ -20,5 +20,7 @@ The analysis is based on a database that consists of four interconnected tables:
 - pizzas: Contains details about each pizza variant (pizza ID, pizza type ID, size, and price).
 - pizza_types: Contains details about the pizza categories and names (pizza type ID, name, category, and ingredients).
 
+## 🛠️ Tool Used
 
+-SQL (MySQL): Used for data extraction, transformation, and analysis.
 
