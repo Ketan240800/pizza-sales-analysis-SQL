@@ -24,3 +24,14 @@ The analysis is based on a database that consists of four interconnected tables:
 
 -SQL (MySQL): Used for data extraction, transformation, and analysis.
 
+👨‍💻 Author
+
+Ketan Wadibhasme
+
+📧 [wadibhasmeketan@gmail.com]
+
+🔗 [www.linkedin.com/in/ketan-wadibhasme]
+
+
+
+
